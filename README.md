@@ -1,4 +1,4 @@
-# kepler-minion
+# drive-test-magic.io
 Full-customized kepler.gl
 
 This project has been designed to manage minions comfortably.
